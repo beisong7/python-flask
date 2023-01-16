@@ -29,8 +29,3 @@
 - deactivate virtual environment
     - press `ctrl` + `c` to cancle application running
     - enter the command `deactivate` to exit virtual environment
-
-
-```bash
-    
-```
